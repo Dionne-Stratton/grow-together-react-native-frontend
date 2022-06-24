@@ -28,7 +28,6 @@ function LogoTitle() {
       display: 'flex',
       flexDirection: 'row',
       alignItems: 'center',
-      marginLeft: 30
     }
 })
 
